@@ -1,0 +1,2 @@
+# Computer-Vision-Algorithm-for-Quantitative-Interpretation-of-Lateral-Flow-Assays
+AI-driven multimodal framework for semi-quantitative interpretation of lateral flow assays using computer vision and contextual clinical reasoning. Combines smartphone-based signal extraction, multimodal diagnostics, retrieval-augmented generation, and domain-specific language models to support scalable digital health diagnostics.
